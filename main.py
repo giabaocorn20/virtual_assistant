@@ -12,11 +12,11 @@ from langchain.tools import BaseTool, Tool
 from langchain.utilities.zapier import ZapierNLAWrapper
 from langchain.utilities import GoogleSearchAPIWrapper, GoogleSerperAPIWrapper
 
-OPENAI_API_KEY =  "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"
-ZAPIER_NLA_API_KEY = "sk-ak-RNh2rJkRV05OXwMlAl2taw8OGE"
-GOOGLE_API_KEY = "AIzaSyDb9greO_WtpGTu2n96k-ucSCQ6TSU0-FY"
-GOOGLE_CSE_ID = "c188eddc1df614f10"
-SERPER_API_KEY = "b2ccc4a941fed316b212f74f1485a0255b6c7962"
+OPENAI_API_KEY =  ""
+ZAPIER_NLA_API_KEY = ""
+GOOGLE_API_KEY = ""
+GOOGLE_CSE_ID = ""
+SERPER_API_KEY = ""
 # Set recording parameters
 duration = 5  # duration of each recording in seconds
 fs = 44100  # sample rate
