@@ -1,7 +1,9 @@
 
 # Virtual Assistant using Zapier + Langchain
 
-Welcome to the Virtual Assistant project that combines the power of Zapier and Langchain to create an intelligent and efficient assistant capable of natural language interactions and task automation.
+Welcome to the Virtual Assistant project that combines the power of Zapier and Langchain to create an intelligent and efficient assistant capable of natural language interactions and task automation. 
+
+Watch it in my [blog](https://my-personal-website-git-main-giabaocorn20.vercel.app/blog/build-a-virtual-assistant)
 
 ## Project Overview
 
